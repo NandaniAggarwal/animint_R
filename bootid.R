@@ -58,11 +58,12 @@ viz <- animint(
   distribution = plot_dist,
   means = plot_error,
   time = list(variable = "iteration", ms = 1000),
-  title = "Bootstrapping i.i.d Data Port"
+  title = "Bootstrapping i.i.d Data Port",
+  source="https://github.com/NandaniAggarwal/animint_R/blob/main/bootid.R"
 )
 
 viz
 
 if(FALSE){
-  animint2pages(viz, "boot.iid_animation")
+  animint2pages(viz, "boot.iid_animation_R")
 }
