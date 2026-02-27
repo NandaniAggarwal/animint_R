@@ -50,5 +50,5 @@ viz <- animint(
 viz
 
 if(FALSE){
-  animint2pages(viz, "boot.lowess_animation_R")
+  animint2pages(viz, "boot.lowess_animations_R")
 }
