@@ -71,6 +71,7 @@ viz <- list(
   width = list(bootstrapPlot = 400), 
   height = list(bootstrapPlot = 700),
   time = list(variable = "iteration", ms = 1000),
+  title="Bootstrap Sampling Animation",
   source="https://github.com/NandaniAggarwal/animint_R/blob/main/bootstrapping.R"
 )
 
