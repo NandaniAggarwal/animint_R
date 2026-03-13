@@ -44,5 +44,5 @@ The following objects are masked from ‘package:ggplot2’:
 
 ---
 ### 4. Hard Test Solution
-- **Video Link**: [bootstrap-sampling-test-render](https://www.youtube.com/watch?v=yonNciNhkFc)
-- **PR link**: [bootstrap-sampling-test-render](https://github.com/animint/animint2/pull/308)
+- **Video Link**: [bootstrap-sampling-test-render](https://youtu.be/ocgxhv9G9SQ)
+- **PR link**: [bootstrap-sampling-test-render](https://github.com/animint/animint2/pull/314)
